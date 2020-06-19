@@ -9,4 +9,4 @@ HTML
 CSS
 
 ## Webiste
-https://github.com/kearnest1/Challenge-1.git
+https://kearnest1.github.io/Challenge-1/
